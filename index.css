@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+.form-group{
+    background-color: azure;
+    color: red;
+}
+
+
+.page-header{
+    color: blue;
+}
+
+.page-header:hover{
+    background-color: red;
+    opacity: .7;
+    font-size: 25px;
+}
